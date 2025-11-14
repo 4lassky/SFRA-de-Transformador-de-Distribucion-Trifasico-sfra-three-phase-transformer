@@ -1,4 +1,4 @@
-# SFRA-de-Transformador-de-Distribuci-n-Trifasico-sfra-three-phase-transformer
+# SFRA-de-Transformador-de-Distribucion-Trifasico-sfra-three-phase-transformer
 Este script de MATLAB está diseñado para el Análisis de Respuesta en Frecuencia de Barrido (SFRA) de un transformador de distribución trifásico. Compara una medición de referencia con múltiples mediciones de falla (archivos `.s2p`).
 
 Proyecto académico realizado por **Galindo Barbosa Israel Aldahir** y **Herrera Godoy Hazael** para **ESIME ZACATENCO - IPN**.
