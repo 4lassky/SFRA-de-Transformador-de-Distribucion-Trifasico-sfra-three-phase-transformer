@@ -3,7 +3,7 @@ Este script de MATLAB está diseñado para el Análisis de Respuesta en Frecuenc
 
 Proyecto académico realizado por **Galindo Barbosa Israel Aldahir** y **Herrera Godoy Hazael** para **ESIME ZACATENCO - IPN**.
 
-## 🚀 Características Principales
+## Características Principales
 * **Carga de Datos:** Importa archivos `.s2p` de referencia y de fallas.
 * **Modos de Prueba:** El código está preconfigurado con rangos de frecuencia para análisis de **Circuito Abierto** y **Circuito Corto**. El usuario debe comentar/descomentar la sección relevante.
 * **Visualización 2D:** Genera gráficas SFRA (Referencia vs. Fallas) con las 4 zonas de frecuencia de la norma **IEEE C57.149-2012**.
@@ -13,7 +13,7 @@ Proyecto académico realizado por **Galindo Barbosa Israel Aldahir** y **Herrera
 * **Visualización 3D:** Crea una superficie 3D que muestra la evolución de la traza SFRA.
 * **Exportación:** Guarda las figuras en formato `.png` y crea un `.gif` animado de la gráfica 3D.
 
-## ⚙️ Uso
+## Uso
 1.  **Importante:** Antes de ejecutar, abra el script y navegue a la sección `%% === ANÁLISIS SFRA y detección de resonancias ===`.
 2.  Asegúrese de que los rangos de frecuencia (`rangosRef` y `rangosFalla`) correctos estén **descomentados** (ya sea para "circuito abierto" o "circuito corto") y los otros estén comentados.
 3.  Ejecute el script.
